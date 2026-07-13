@@ -1,0 +1,7 @@
+requests
+typesense
+python-dotenv
+beautifulsoup4
+pymupdf
+apify-client
+openai

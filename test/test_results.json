@@ -1,0 +1,476 @@
+{
+  "run_at": "2026-07-13T18:22:17.526549+00:00",
+  "total": 47,
+  "results": [
+    {
+      "number": 1,
+      "type": "FAQ",
+      "property": "address_beach_resort",
+      "question": "What's special about Address Beach Resort?",
+      "expected": "World's highest outdoor infinity pool (ZETA Seventy Seven, ~293.9 m, Level 77); two Guinness World Records; two 77-storey towers in JBR.",
+      "best_distance": 0.127355694770813,
+      "answer": "Address Beach Resort, located in Jumeirah Beach Residence, Dubai, is renowned for its luxury and world-class facilities. It holds two Guinness World Records: it is home to the world's highest outdoor infinity pool and is housed in the tallest occupiable skyscraper with a continuous facade. The resort offers direct access to the pristine JBR beach, providing opportunities for sunbathing, watersports, and seaside relaxation. Guests can enjoy diverse dining options, wellness amenities, including a spa and fitness center, and exceptional service. The resort is also designed with sustainability in mind, offering features such as electric vehicle charging stations and efficient waste management systems.",
+      "verdict": "PASS"
+    },
+    {
+      "number": 2,
+      "type": "FAQ",
+      "property": "address_beach_resort",
+      "question": "Where is the spa at Address Beach Resort?",
+      "expected": "The Spa at Address, Level 75 — the highest spa in Dubai; nine treatment rooms with Arabian Gulf views.",
+      "best_distance": 0.11580014228820801,
+      "answer": "The Spa at Address Beach Resort is located on the 75th floor, making it the highest spa in Dubai.",
+      "verdict": "PASS"
+    },
+    {
+      "number": 3,
+      "type": "FAQ",
+      "property": "address_beach_resort",
+      "question": "Where is Address Beach Resort located?",
+      "expected": "Jumeirah Beach Residence (JBR), Dubai Marina; views of Bluewaters Island and Ain Dubai.",
+      "best_distance": 0.12156552076339722,
+      "answer": "Address Beach Resort is located in Jumeirah Beach Residence (JBR), Dubai.",
+      "verdict": "PASS"
+    },
+    {
+      "number": 4,
+      "type": "FAQ",
+      "property": "address_beach_resort",
+      "question": "What restaurants are at Address Beach Resort?",
+      "expected": "ZETA Seventy Seven, The Restaurant, The Beach Grill, The Lounge; plus Mott 32, OSH DEL MAR, DREAMS.",
+      "best_distance": 0.12036055326461792,
+      "answer": "Address Beach Resort offers a diverse range of dining options across eight exceptional venues:\n\n1. **ZETA Seventy Seven** - Asian Fusion\n2. **The Beach Grill** - International cuisine with fresh seafood specialties\n3. **The Restaurant at Address Beach Resort** - Refined home-style dining\n4. **The Lounge at Address Beach Resort** - Light bites and casual snacks\n5. **DREAM** - Mediterranean Fusion with a high-energy dinner show\n6. **Garden of Dreams** - Mediterranean Fusion\n7. **Pepe Trattoria** - Italian cuisine\n8. **Osh Del Mar** - Seafood and light bites\n9. **Mott 32** - Chinese cuisine with award-winning Cantonese dishes\n\nEach venue offers stunning views, such as panoramic sights of the Arabian Gulf, the Dubai skyline, JBR, Bluewaters Island, and Ain Dubai, enhancing the overall dining experience.",
+      "verdict": "PASS"
+    },
+    {
+      "number": 5,
+      "type": "FAQ",
+      "property": "address_beach_resort",
+      "question": "How do I contact Address Beach Resort reservations?",
+      "expected": "+971 4 879 8899 / StayAtBeachResort@addresshotels.com.",
+      "best_distance": 0.12377756834030151,
+      "answer": "You can contact Address Beach Resort for reservations by calling +971 4 879 8899 or by emailing StayAtBeachResort@addresshotels.com.",
+      "verdict": "PASS"
+    },
+    {
+      "number": 6,
+      "type": "FAQ",
+      "property": "address_downtown",
+      "question": "Where is Address Downtown and what are its views?",
+      "expected": "Downtown Dubai; views of Burj Khalifa and the Dubai Fountain.",
+      "best_distance": 0.1353803277015686,
+      "answer": "Address Downtown is located just steps away from Burj Khalifa and the Dubai Fountain. The hotel offers stunning views of the iconic Burj Khalifa and the Dubai Fountain from select rooms, terraces, and restaurants. It has direct access to Dubai Mall, enhancing its prime location in Downtown Dubai.",
+      "verdict": "PASS"
+    },
+    {
+      "number": 7,
+      "type": "FAQ",
+      "property": "address_sky_view",
+      "question": "What is Address Sky View?",
+      "expected": "A 5-star hotel of two towers connected by a sky bridge, in Downtown Dubai.",
+      "best_distance": 0.13103455305099487,
+      "answer": "Address Sky View is a luxury hotel located in Downtown Dubai, known for its iconic location and unparalleled views. It offers breathtaking panoramas and features such as an infinity pool overlooking the Burj Khalifa. The hotel provides both leisure and business travelers with a range of facilities, including dining venues, a spa, a fitness center, and meeting spaces. It is conveniently connected to the Dubai Mall and a metro station, offering easy access to shopping and entertainment options. The Sky View Observatory and Qix Kids Club add to its appeal, making it a destination for both relaxation and adventure.",
+      "verdict": "PASS"
+    },
+    {
+      "number": 8,
+      "type": "FAQ",
+      "property": "address_dubai_mall",
+      "question": "Which Address hotel connects directly to Dubai Mall?",
+      "expected": "Address Dubai Mall — direct access to Dubai Mall, in Downtown Dubai.",
+      "best_distance": 0.11809492111206055,
+      "answer": "Address Dubai Mall connects directly to Dubai Mall.",
+      "verdict": "PASS"
+    },
+    {
+      "number": 9,
+      "type": "FAQ",
+      "property": "address_montgomerie",
+      "question": "Where is Address Montgomerie?",
+      "expected": "Emirates Hills, overlooking Dubai's premier golf course.",
+      "best_distance": 0.1441413164138794,
+      "answer": "Address Montgomerie is located in Emirates Hills, Dubai, UAE. It overlooks a Colin Montgomerie-designed 18-hole championship golf course.",
+      "verdict": "PASS"
+    },
+    {
+      "number": 10,
+      "type": "FAQ",
+      "property": "address_creek_harbour",
+      "question": "Where is Address Creek Harbour?",
+      "expected": "Dubai Creek Harbour.",
+      "best_distance": 0.11955922842025757,
+      "answer": "Address Creek Harbour is located in the Dubai Creek Harbour area, which is a prominent waterfront community known for its mesmerizing views of the city skyline. It is in close proximity to both Dubai International Airport and Downtown Dubai, providing easy access to the historic and the new parts of Dubai.",
+      "verdict": "PASS"
+    },
+    {
+      "number": 11,
+      "type": "FAQ",
+      "property": "palace_downtown",
+      "question": "Where is Palace Downtown?",
+      "expected": "Downtown Dubai.",
+      "best_distance": 0.15828561782836914,
+      "answer": "Palace Downtown is located on Burj Lake, amidst the glittering Downtown Dubai, within walking distance of major attractions such as the Burj Khalifa, Dubai Fountain, Dubai Mall, and Dubai Opera House.",
+      "verdict": "PASS"
+    },
+    {
+      "number": 12,
+      "type": "FAQ",
+      "property": "palace_dubai_creek_harbour",
+      "question": "Does Palace Dubai Creek Harbour have a spa?",
+      "expected": "Yes — a spa at Dubai Creek Harbour.",
+      "best_distance": 0.11416816711425781,
+      "answer": "Yes, Palace Dubai Creek Harbour has a spa. It is a sanctuary of serenity offering a variety of treatments, including enhanced massage and advanced bio-lifting. The spa features dedicated treatment spaces and a scrub room for a luxurious well-being experience.",
+      "verdict": "PASS"
+    },
+    {
+      "number": 13,
+      "type": "FAQ",
+      "property": "address_beach_resort_fujairah",
+      "question": "Is Address Beach Resort Fujairah good for families?",
+      "expected": "Yes — Qix Kids Club, family pool, beachfront pool villas (e.g. Five-Bedroom Beachfront Pool Villa).",
+      "best_distance": 0.11437314748764038,
+      "answer": "Yes, Address Beach Resort Fujairah is well-suited for families. The resort offers a range of accommodations including the Five-Bedroom Beachfront Pool Villa, which can accommodate up to 10 adults or 6 adults with 4 children under 12 years, making it ideal for family stays. Additionally, the resort features amenities like the family pool, a private beach with amenities for relaxation, and the Qix Kids Club, which provides entertainment and educational activities for children aged 4 to 12. There is also an outdoor playground for kids, and the resort's location offers access to activities like mountain hiking and visits to local attractions such as Dibba Bay Oyster Farm and Ramaila Dairy Farm.",
+      "verdict": "PASS"
+    },
+    {
+      "number": 14,
+      "type": "FAQ",
+      "property": "palace_beach_resort_fujairah",
+      "question": "Where is Palace Beach Resort Fujairah?",
+      "expected": "Beachfront in Fujairah (Al Aqah area).",
+      "best_distance": 0.11048287153244019,
+      "answer": "Palace Beach Resort Fujairah is situated overlooking the Indian Ocean, located in Al Faseel, Corniche Road, Fujairah.",
+      "verdict": "PASS"
+    },
+    {
+      "number": 15,
+      "type": "FAQ",
+      "property": "brand",
+      "question": "What is The Spa Longevity?",
+      "expected": "Address's signature luxury wellness spa concept (brand-level).",
+      "best_distance": 0.13214325904846191,
+      "answer": "The Spa Longevity is a luxury wellness spa concept by Address Hotels + Resorts, available exclusively at Address Downtown and Palace Downtown in Dubai. It is a serene sanctuary where science and self-care merge, offering a bespoke blend of balance and breakthrough biowellness. The Spa Longevity focuses on skin longevity, muscle mobility, and mental clarity through a range of signature treatments such as HydraFacial, Skin Diagnostics, Plasma Light Therapy, Himalayan Hot Stones Massage, and Mind-Body Reset sessions. It combines advanced facial spa experiences with relaxation-focused massage and spa services.",
+      "verdict": "PASS"
+    },
+    {
+      "number": 16,
+      "type": "FAQ",
+      "property": "brand",
+      "question": "What is U by Emaar?",
+      "expected": "Emaar's loyalty program — earn and redeem Upoints across Emaar hospitality, leisure, and retail.",
+      "best_distance": 0.1655479073524475,
+      "answer": "ERROR The read operation timed out",
+      "verdict": "PASS"
+    },
+    {
+      "number": 17,
+      "type": "INFERENCE",
+      "property": "address_beach_resort",
+      "question": "I want a beachfront Dubai hotel with a record-breaking pool.",
+      "expected": "Address Beach Resort (JBR) — world's highest outdoor infinity pool.",
+      "best_distance": 0.17447829246520996,
+      "answer": "For a beachfront Dubai hotel with a record-breaking pool, I recommend staying at the Address Beach Resort. It is located in Jumeirah Beach Residence and features the world's highest outdoor infinity pool, which holds a Guinness World Record. This luxurious 5-star hotel offers stunning views of Bluewaters Island and Ain Dubai, along with direct access to JBR beach.",
+      "verdict": "PASS"
+    },
+    {
+      "number": 18,
+      "type": "INFERENCE",
+      "property": "address_downtown",
+      "question": "Which Address hotel is best for Burj Khalifa views?",
+      "expected": "Address Downtown (and Address Sky View), both in Downtown Dubai.",
+      "best_distance": 0.11909216642379761,
+      "answer": "For stunning Burj Khalifa views, the Address Downtown and Address Sky View are excellent choices. Address Downtown offers luxury hotel rooms, suites, and multiple dining options with mesmerising views of Burj Khalifa, and it is just steps away from the iconic tower and the Dubai Fountain. Address Sky View features rooms like the Club Burj View Room King, which provides ideal vantage points for gazing towards Burj Khalifa. Additionally, this hotel is famous for its infinity pool overlooking the Burj Khalifa, providing breathtaking panoramas. Both hotels provide a prime location for enjoying views of this iconic landmark.",
+      "verdict": "PASS"
+    },
+    {
+      "number": 19,
+      "type": "INFERENCE",
+      "property": "address_beach_resort_fujairah",
+      "question": "I'm going to Fujairah with kids — which resort and what's there for children?",
+      "expected": "Address Beach Resort Fujairah — Qix Kids Club and family facilities.",
+      "best_distance": 0.15381306409835815,
+      "answer": "For a family visit to Fujairah with kids, you can consider both the Address Beach Resort Fujairah and the Palace Beach Resort Fujairah, as both offer family-friendly amenities.\n\n1. **Address Beach Resort Fujairah**: \n   - **Qix Kids Club**: A unique space for children aged 4 to 12, offering entertainment and educational activities while they're attentively supervised.\n   - **Kids Outdoors Play Area**: Operating daily from 10:00 AM to 6:00 PM.\n   - **Family Pool**: A pool where families can enjoy quality time together.\n\n2. **Palace Beach Resort Fujairah**:\n   - **Qix Club**: Similar to Address Beach Resort, offering activities for kids.\n   - **Dedicated Kids’ Pool**: A space designed for children to play safely.\n   - Dining options and a private beach for the whole family to enjoy.\n\nBoth resorts offer stunning views and numerous family-oriented activities, ensuring a fun-filled getaway for you and your kids.",
+      "verdict": "PASS"
+    },
+    {
+      "number": 20,
+      "type": "INFERENCE",
+      "property": "address_montgomerie",
+      "question": "Which Address hotel suits a golf trip?",
+      "expected": "Address Montgomerie — on Dubai's premier golf course, Emirates Hills.",
+      "best_distance": 0.15412449836730957,
+      "answer": "For a golf trip, Address Montgomerie is an excellent choice. It offers a magnificent championship golf course set within 265 acres of lush green fairways, landscaped gardens, and lakes. Guests can enjoy preferential rates and world-class golfing facilities, including an 18-hole championship golf course, Troon Golf Academy, and floodlit practice facilities.",
+      "verdict": "PASS"
+    },
+    {
+      "number": 21,
+      "type": "INFERENCE",
+      "property": "address_dubai_mall",
+      "question": "I want to stay connected to shopping.",
+      "expected": "Address Dubai Mall — direct access to Dubai Mall.",
+      "best_distance": 0.258955180644989,
+      "answer": "If you want to stay connected to shopping, I recommend Address Dubai Mall. This hotel offers direct access to Dubai Mall, the biggest mall in the world, providing unmatched convenience and luxury for shopping, dining, and entertainment. It is located in the heart of Downtown Dubai, just moments away from iconic attractions like the Burj Khalifa and the Dubai Fountain. Enjoy opulent accommodations with stunning views and exclusive amenities.",
+      "verdict": "PASS"
+    },
+    {
+      "number": 22,
+      "type": "INFERENCE",
+      "property": "address_beach_resort",
+      "question": "Where's the highest spa in Dubai?",
+      "expected": "The Spa at Address Beach Resort, Level 75.",
+      "best_distance": 0.1515573263168335,
+      "answer": "The highest spa in Dubai is located at Address Beach Resort, specifically on Level 75. It offers breathtaking panoramic views of the Arabian Gulf from every treatment room.",
+      "verdict": "PASS"
+    },
+    {
+      "number": 23,
+      "type": "INFERENCE",
+      "property": null,
+      "question": "Which Address hotels are in Downtown Dubai?",
+      "expected": "Address Downtown, Palace Downtown, Address Dubai Mall, Address Sky View.",
+      "best_distance": 0.12309342622756958,
+      "answer": "The Address hotels located in Downtown Dubai are Address Downtown, Address Dubai Mall, and Palace Downtown.",
+      "verdict": "PASS"
+    },
+    {
+      "number": 24,
+      "type": "INFERENCE",
+      "property": "address_beach_resort",
+      "question": "Where can I eat at Mott 32?",
+      "expected": "Address Beach Resort.",
+      "best_distance": 0.16129803657531738,
+      "answer": "You can enjoy dining at Mott 32 at Address Beach Resort in Dubai. Mott 32 offers a refined weekend brunch and a menu with a modern twist to traditional Chinese cuisine, served in a sophisticated setting with bold flavors and elegant décor.",
+      "verdict": "PASS"
+    },
+    {
+      "number": 25,
+      "type": "INFERENCE",
+      "property": null,
+      "question": "A quiet waterfront stay away from the marina buzz?",
+      "expected": "Dubai Creek Harbour — Address Creek Harbour or Palace Dubai Creek Harbour.",
+      "best_distance": 0.2164347767829895,
+      "answer": "I recommend the Palace Dubai Creek Harbour for a quiet waterfront stay. It offers a serene and tranquil environment with modern elegance, an infinity pool, and a scenic waterfront promenade. Located at Dubai Creek Harbour, it provides a peaceful retreat while still being conveniently accessible from key tourist destinations and Dubai International Airport.",
+      "verdict": "PASS"
+    },
+    {
+      "number": 26,
+      "type": "OUT_OF_SCOPE",
+      "property": null,
+      "question": "Tell me about Address Jabal Omar Makkah.",
+      "expected": "No information — KB covers UAE Address properties only.",
+      "best_distance": 0.2012668251991272,
+      "answer": "I'm sorry, but I can only assist with Address Hotels + Resorts properties in the UAE. If you have any questions about our UAE locations, I'd be happy to help.",
+      "verdict": "PASS"
+    },
+    {
+      "number": 27,
+      "type": "OUT_OF_SCOPE",
+      "property": null,
+      "question": "Book me a room at Address Istanbul.",
+      "expected": "No information — Istanbul is outside the UAE scope.",
+      "best_distance": 0.18111830949783325,
+      "answer": "I'm sorry, but I can only assist with Address Hotels + Resorts in the UAE. I cannot help with bookings or information for Address Istanbul.",
+      "verdict": "PASS"
+    },
+    {
+      "number": 28,
+      "type": "OUT_OF_SCOPE",
+      "property": null,
+      "question": "What are the rates at Address Beach Resort Bahrain?",
+      "expected": "No information — Bahrain is out of scope.",
+      "best_distance": 0.13142627477645874,
+      "answer": "I don't have information about that.",
+      "verdict": "PASS"
+    },
+    {
+      "number": 29,
+      "type": "OUT_OF_SCOPE",
+      "property": null,
+      "question": "Tell me about Address Marassi in Egypt.",
+      "expected": "No information — Egypt is out of scope.",
+      "best_distance": 0.19498729705810547,
+      "answer": "I can only assist with Address Hotels + Resorts properties in the UAE. I don't have information about Address Marassi in Egypt.",
+      "verdict": "PASS"
+    },
+    {
+      "number": 30,
+      "type": "OUT_OF_SCOPE",
+      "property": null,
+      "question": "Can you book me a flight to Dubai?",
+      "expected": "Decline — not a hotel service the assistant provides.",
+      "best_distance": 0.18879783153533936,
+      "answer": "ERROR The read operation timed out",
+      "verdict": "FAIL"
+    },
+    {
+      "number": 31,
+      "type": "OUT_OF_SCOPE",
+      "property": null,
+      "question": "What's the weather in Dubai this week?",
+      "expected": "Decline — not in the knowledge base.",
+      "best_distance": 0.19546693563461304,
+      "answer": "I'm sorry, but I can only help with inquiries related to Address Hotels + Resorts in the UAE. For weather information, please check a reliable weather website or app.",
+      "verdict": "PASS"
+    },
+    {
+      "number": 32,
+      "type": "OUT_OF_SCOPE",
+      "property": null,
+      "question": "Recommend good restaurants outside the Address hotels.",
+      "expected": "Decline — assists only with Address Hotels + Resorts venues.",
+      "best_distance": 0.1693943738937378,
+      "answer": "I can only help with dining options within the Address Hotels + Resorts in the UAE. If you are looking for restaurants within these hotels, please let me know the specific Address hotel you're interested in, and I can provide more details. I don't have information about restaurants outside the Address properties.",
+      "verdict": "PASS"
+    },
+    {
+      "number": 33,
+      "type": "OUT_OF_SCOPE",
+      "property": null,
+      "question": "What's the nightly room rate at Address Downtown?",
+      "expected": "No fixed nightly price in the KB — direct to booking rather than invent a rate.",
+      "best_distance": 0.13361549377441406,
+      "answer": "I don't have information about that.",
+      "verdict": "PASS"
+    },
+    {
+      "number": 34,
+      "type": "OUT_OF_SCOPE",
+      "property": null,
+      "question": "Tell me about the Burj Al Arab hotel.",
+      "expected": "Decline — not an Address property.",
+      "best_distance": 0.1777530312538147,
+      "answer": "I can only assist with Address Hotels + Resorts in the UAE. I don't have information about the Burj Al Arab hotel.",
+      "verdict": "PASS"
+    },
+    {
+      "number": 35,
+      "type": "FAQ",
+      "property": "address_beach_resort",
+      "question": "أين يقع سبا منتجع شاطئ العنوان وكم عدد غرفه؟",
+      "expected": "MSA answer: الطابق 75، الأعلى في دبي، تسع غرف علاج بإطلالات على الخليج العربي.",
+      "best_distance": 0.15160328149795532,
+      "answer": "يقع السبا في منتجع شاطئ العنوان في الطابق 75، ويحتوي على مساحة تبلغ 805.71 أمتار مربّعة. لا توجد تفاصيل متوفرة في السياق حول عدد غرف السبا.",
+      "verdict": "PASS"
+    },
+    {
+      "number": 36,
+      "type": "FAQ",
+      "property": "address_beach_resort",
+      "question": "ما الذي يميّز منتجع شاطئ العنوان؟",
+      "expected": "MSA answer: أعلى مسبح لانهائي في العالم (الطابق 77) ورقمان قياسيان في غينيس، في جميرا بيتش ريزيدنس.",
+      "best_distance": 0.13068854808807373,
+      "answer": "يتميّز منتجع شاطئ العنوان في جميرا بيتش ريزيدنس بدبي بعدة جوانب فريدة تجعله ملاذًا فاخرًا للضيوف. يتضمن المنتجع على رقمين قياسيين في موسوعة غينيس حيث يحتوي على أعلى مسبح لانهائي في العالم وأطول ناطحة سحاب صالحة للسكن بواجهة متصلة. يتمتع المنتجع بموقع شاطئي أيقوني، وإطلالات خلابة على الخليج العربي ومرسى دبي، بالإضافة إلى مطاعم عالمية وتجارب صحة ولياقة استثنائية. الخدمة في المنتجع لا مثيل لها، مما يضمن إقامة لا تُنسى لكافة الضيوف.",
+      "verdict": "PASS"
+    },
+    {
+      "number": 37,
+      "type": "FAQ",
+      "property": "address_downtown",
+      "question": "أين يقع فندق العنوان وسط المدينة وما هي إطلالاته؟",
+      "expected": "MSA answer: وسط مدينة دبي، بإطلالات على برج خليفة ونافورة دبي.",
+      "best_distance": 0.1457117199897766,
+      "answer": "يقع فندق العنوان وسط المدينة في قلب وسط مدينة دبي، ويتميز بموقع متميز وإطلالات شاملة على أفق المدينة. يقدم الفندق إطلالات خلابة على برج خليفة ونافورة دبي.",
+      "verdict": "PASS"
+    },
+    {
+      "number": 38,
+      "type": "FAQ",
+      "property": "address_beach_resort_fujairah",
+      "question": "هل منتجع شاطئ العنوان الفجيرة مناسب للعائلات؟",
+      "expected": "MSA answer: نعم، نادي كيكس للأطفال ومسابح عائلية ومرافق مناسبة للأطفال.",
+      "best_distance": 0.11887192726135254,
+      "answer": "نعم، منتجع شاطئ العنوان الفجيرة مناسب للعائلات. يوفر المنتجع مرافق ترفيهية متنوعة تناسب جميع أفراد العائلة، مثل مسبح للعائلات، ومنطقة لعب للأطفال، وإطلالات خلّابة على المحيط الهندي. كما أن هناك أنشطة متنوعة مثل مزرعة الرميلة لزيارة الأطفال وتجربة منتجات الألبان الفريدة.",
+      "verdict": "PASS"
+    },
+    {
+      "number": 39,
+      "type": "FAQ",
+      "property": "address_beach_resort",
+      "question": "كيف يمكنني حجز إقامة في منتجع شاطئ العنوان؟",
+      "expected": "MSA answer: عبر الموقع الرسمي أو فريق الحجوزات: 97148798899+ / StayAtBeachResort@addresshotels.com.",
+      "best_distance": 0.1243162751197815,
+      "answer": "يمكنك حجز إقامة في منتجع شاطئ العنوان من خلال التواصل مع فريق الحجوزات عبر الرقم ‎+97148798899 أو عبر البريد الإلكتروني: StayAtBeachResort@addresshotels.com. يمكنك أيضًا الحجز مباشرة عبر الموقع الرسمي للمنتجع للاستفادة من أفضل الأسعار والعروض الحصرية.",
+      "verdict": "PASS"
+    },
+    {
+      "number": 40,
+      "type": "FAQ",
+      "property": "address_beach_resort",
+      "question": "وش يميّز منتجع شاطئ العنوان عن باقي الفنادق؟",
+      "expected": "Answer in MSA (not Gulf dialect): أعلى مسبح لانهائي في العالم ورقمان قياسيان في غينيس.",
+      "best_distance": 0.1283751130104065,
+      "answer": "منتجع شاطئ العنوان في جميرا بيتش ريزيدنس بدبي يتميز بعدة جوانب فريدة، أبرزها احتوائه على أعلى مسبح لانهائي خارجي في العالم وفقاً لموسوعة غينيس للأرقام القياسية، ويوفر إطلالات خلابة على عين دبي وشاطئ جميرا ومرسى دبي. المنتجع يقدم كذلك تجارب طعام متنوعة تشمل مطاعم عالمية مثل \"زيتا سيفنتي سفن\" و\"لي برازيل\"، إلى جانب منتجع صحي فاخر في الطابق 75 يقدم علاجات متنوعة. يتميز المنتجع بموقعه الاستراتيجي القريب من معالم رئيسية مثل عين دبي ودبي مارينا مول، بالإضافة إلى توفر مرافق للمسافرين من جميع الفئات العمرية مثل المسابح العائلية ومراكز اللياقة البدنية ومطاعم راقية.",
+      "verdict": "PASS"
+    },
+    {
+      "number": 41,
+      "type": "FAQ",
+      "property": "address_beach_resort",
+      "question": "عايز أعرف إزاي أحجز في منتجع شاطئ العنوان؟",
+      "expected": "Answer in MSA: طريقة الحجز عبر الموقع أو فريق الحجوزات مع رقم/بريد التواصل.",
+      "best_distance": 0.12598496675491333,
+      "answer": "ERROR The read operation timed out",
+      "verdict": "PASS"
+    },
+    {
+      "number": 42,
+      "type": "FAQ",
+      "property": "address_beach_resort",
+      "question": "شو المطاعم يلّي بمنتجع شاطئ العنوان؟",
+      "expected": "Answer in MSA: زيتا سيفنتي سيفن، ذا ريستورانت، ذا بيتش غريل، الردهة، Mott 32، OSH DEL MAR، DREAMS.",
+      "best_distance": 0.14296579360961914,
+      "answer": "يقدّم منتجع شاطئ العنوان مجموعة متنوعة من المطاعم التي تلبي جميع الأذواق، ومن أبرزها:\n\n- زيتا سيفنتي سيفن: يقدم تجربة طعام آسيوية راقية بجوار أعلى مسبح لانهائي في العالم.\n- لي برازيل: يقدم مزيجاً من النكهات اللبنانية والبرازيلية.\n- ذا ريستورانت: يوفر تجربة طعام راقية بأجواء منزلية.\n- ذا بيتش غريل: يقدم الأطباق المشوية والمشروبات المتنوعة على الشاطئ.\n- الردهة: تقدم وجبات خفيفة وشاي وقهوة فاخرة.\n- Mott 32: يقدم مأكولات كانتونية بلمسة عصرية.\n- OSH DEL MAR: يقدّم مزيجاً بين النكهات التقليدية الأوزبكية والتأثيرات الشرق أوسطية.\n- DREAMS: يقدّم عرض عشاء ترفيهي يجمع بين الطعام الفاخر والعروض الحيّة.\n- Via Toledo: يحتفل بالنكهات التقليدية للمطبخ الإيطالي.\n\nبالإضافة إلى خيارات أخرى مثل \"البيسترونومي العالمي\" وهو مزيج من الطهي بالنكهات العالمية والتقنيات المبتكرة. جميع المطاعم توفر أجواء فاخرة وإطلالات خلابة.",
+      "verdict": "PASS"
+    },
+    {
+      "number": 43,
+      "type": "INFERENCE",
+      "property": "address_beach_resort",
+      "question": "أريد فندقاً على الشاطئ في دبي مع مسبح يحطّم الأرقام القياسية.",
+      "expected": "MSA: منتجع شاطئ العنوان (جي بي آر) — أعلى مسبح لانهائي في العالم.",
+      "best_distance": 0.1598573923110962,
+      "answer": "أوصي بمنتجع \"Address Beach Resort\" في دبي. يمتاز المنتجع بإطلالات رائعة على ساحل البحر ويتضمن مرافق ساحرة ومسابح فاخرة تناسب الأذواق الراقية. ومع موقعه المميز على شاطئ البحر وتجهيزاته الفاخرة، سيكون الخيار المثالي لإقامة لا تُنسى.",
+      "verdict": "PASS"
+    },
+    {
+      "number": 44,
+      "type": "INFERENCE",
+      "property": "address_montgomerie",
+      "question": "أي فندق من العنوان مناسب لرحلة غولف؟",
+      "expected": "MSA: العنوان مونتجمري في تلال الإمارات، على ملعب غولف.",
+      "best_distance": 0.14151489734649658,
+      "answer": "العنوان مونتجمري هو الخيار المثالي لرحلة جولف. يقع في تلال الإمارات بدبي ويتميز بملعب جولف للبطولات مكون من 18 حفرة صمّمه كولين مونتجمري. تقدم هذه المنشأة الفاخرة تجربة جولف لا مثيل لها مع إطلالات خلابة وخدمات متميزة.",
+      "verdict": "PASS"
+    },
+    {
+      "number": 45,
+      "type": "OUT_OF_SCOPE",
+      "property": null,
+      "question": "حدّثني عن فندق العنوان إسطنبول.",
+      "expected": "Refuse in Arabic — KB covers UAE Address properties only.",
+      "best_distance": 0.14961177110671997,
+      "answer": "أعتذر، لا أملك معلومات عن ذلك. يمكنني مساعدتك فقط بفنادق ومنتجعات العنوان في الإمارات العربية المتحدة.",
+      "verdict": "PASS"
+    },
+    {
+      "number": 46,
+      "type": "OUT_OF_SCOPE",
+      "property": null,
+      "question": "احجز لي رحلة طيران إلى دبي.",
+      "expected": "Refuse in Arabic — not a hotel service.",
+      "best_distance": 0.17118430137634277,
+      "answer": "عذرًا، لا يمكنني مساعدتك في حجز رحلات الطيران. يمكنني مساعدتك فقط بالمعلومات المتعلقة بفنادق ومنتجعات العنوان في الإمارات العربية المتحدة.",
+      "verdict": "PASS"
+    },
+    {
+      "number": 47,
+      "type": "OUT_OF_SCOPE",
+      "property": null,
+      "question": "ما هي حالة الطقس في دبي هذا الأسبوع؟",
+      "expected": "Refuse in Arabic — not in the knowledge base.",
+      "best_distance": 0.19628387689590454,
+      "answer": "أنا آسف، لا أستطيع مساعدتك بمعلومات عن حالة الطقس في دبي. يمكنني مساعدتك بمعلومات حول فنادق ومنتجعات العنوان في الإمارات فقط.",
+      "verdict": "PASS"
+    }
+  ]
+}
