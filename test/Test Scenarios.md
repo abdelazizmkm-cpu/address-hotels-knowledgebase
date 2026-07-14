@@ -24,13 +24,13 @@ Arabic scenarios are answered in **Modern Standard Arabic (MSA)**, including Gul
 | A5 | How do I contact Address Beach Resort reservations? | +971 4 879 8899 · StayAtBeachResort@addresshotels.com |  |
 | A6 | Where is Address Downtown and what are its views? | Downtown Dubai; views of Burj Khalifa and the Dubai Fountain |  |
 | A7 | What is Address Sky View? | 5-star hotel of two towers connected by a sky bridge, Downtown Dubai |  |
-| A8 | Which Address hotel connects directly to Dubai Mall? | Address Dubai Mall — direct access, Downtown Dubai |  |
+| A8 | Which Address hotel connects directly to Dubai Mall? | Address Dubai Mall — direct connection from Level 1. **Note:** the Address Downtown page also states it "offers direct access to Dubai Mall", so naming Address Downtown is not an invention — don't mark it as one |  |
 | A9 | Where is Address Montgomerie? | Emirates Hills, overlooking Dubai's premier golf course |  |
 | A10 | Where is Address Creek Harbour? | Dubai Creek Harbour |  |
 | A11 | Where is Palace Downtown? | Downtown Dubai |  |
 | A12 | Does Palace Dubai Creek Harbour have a spa? | Yes — a spa at Dubai Creek Harbour |  |
 | A13 | Is Address Beach Resort Fujairah good for families? | Yes — Qix Kids Club, family pool, beachfront pool villas |  |
-| A14 | Where is Palace Beach Resort Fujairah? | Beachfront in Fujairah (Al Aqah area) |  |
+| A14 | Where is Palace Beach Resort Fujairah? | **Al Faseel, Corniche Road, Fujairah**, overlooking the Indian Ocean. (Corrected 2026-07-13 — an earlier version of this doc wrongly said "Al Aqah"; **Al Aqah is Address Beach Resort Fujairah**, a different property. It also has a **Qix Club**.) |  |
 | A15 | What is The Spa Longevity? | Address's signature luxury wellness spa concept |  |
 | A16 | What is U by Emaar? | Emaar's loyalty program — earn/redeem Upoints across Emaar hospitality, leisure, retail |  |
 | A17 | What are the check-in and check-out times? | Check-in 3:00 PM (15:00), check-out 12:00 noon; early check-in 11:00 AM / late check-out 4:00 PM on request |  |
