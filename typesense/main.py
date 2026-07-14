@@ -324,6 +324,28 @@ _UAE_ANCHORS = (
 _NON_UAE_PHONE_RE = re.compile(r'\+(?:973|966|90|20)\s*\d')
 
 
+# ── Known upstream errors on addresshotels.com ────────────────────────────────
+# The site's Palace Beach Resort Fujairah spa page is TITLED "The Spa at Address
+# Boulevard" (a template copy-paste error) even though its body correctly
+# describes Palace Beach Resort Fujairah. Left uncorrected, the agent names the
+# WRONG hotel when asked about Palace Fujairah's spa. Reported to the client
+# 2026-07-13; correct here until they fix the page.
+_SOURCE_CORRECTIONS = {
+    'palace-beach-resort-fujairah/wellness/spa': [
+        ('The Spa at Address Boulevard', 'The Spa at Palace Beach Resort Fujairah'),
+    ],
+}
+
+
+def _apply_source_corrections(url: str, text: str, title: str) -> tuple[str, str]:
+    for frag, pairs in _SOURCE_CORRECTIONS.items():
+        if frag in url:
+            for wrong, right in pairs:
+                text = text.replace(wrong, right)
+                title = title.replace(wrong, right)
+    return text, title
+
+
 def _is_non_uae(url: str, title: str, text: str) -> bool:
     hay = f'{url} {title}'.lower()
     if any(t in hay for t in _EXCLUDED_TERMS):
@@ -471,6 +493,9 @@ def page_to_chunks(item: dict) -> list[dict]:
     low = f'{url} {title}'.lower()
     if 'photos-and-videos' in low or '/gallery' in low or '| gallery' in low:
         return []
+
+    # Correct known upstream errors on the source site before chunking.
+    text_raw, title = _apply_source_corrections(url, text_raw, title)
 
     text = _clean_apify_text(text_raw)
     if len(text) < MIN_TEXT_LEN:
