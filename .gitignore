@@ -22,3 +22,9 @@ venv/
 
 # API key files
 *-api-keys-*.txt
+
+# Internal team review material — do NOT publish (repo is public)
+Test Results Review.md
+results.csv
+*.jpg
+*.png

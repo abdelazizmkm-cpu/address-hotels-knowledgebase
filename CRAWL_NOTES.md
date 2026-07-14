@@ -85,5 +85,5 @@ DONE — English pass live and tested:
 ## Resume here (next phase)
 
 1. Cogfy workflow (tool-call loop) wiring `address-gpt` + the dialect query normalizer, retrieval top_k ~8-10 → WhatsApp.
-2. Hamsa voice agent if in scope.
+2. Hamsa voice agent if in scope. Static-text KB already exported for it: `data/knowledge_base.txt` (`python -X utf8 typesense/export_knowledge.py`, 622 KB, bilingual, by property → section; matches the Elithair/UDC Hamsa format). Regenerate after any reindex.
 - If more gaps surface in demo, add targeted fact chunks the same way (test first, only where retrieval misses).
